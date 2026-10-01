@@ -1,8 +1,5 @@
 pandas
 numpy
-scikit-learn
-joblim
 seaborn
 matplotlib
-plotlib
-openpyxl
+plotly
